@@ -16,7 +16,7 @@ I'm interested in software design, backend development, and building clean, main
 
 # Ciao, sono Lorenzo Garau
 
-Sono un Junior Software Developer con una formazione in Informatica ed esperienza nello sviluppo di applicazioni con Java, JavaFX, JavaScriptù, Kotlin, SQL e tecnologie full-stack.
+Sono un Junior Software Developer con una formazione in Informatica ed esperienza nello sviluppo di applicazioni con Java, JavaFX, JavaScript, Kotlin, SQL e tecnologie full-stack.
 
 Durante il mio percorso universitario ho lavorato su progetti desktop, web e mobile, tra cui un progetto di tesi in JavaFX dedicato ai sistemi Case-Based Reasoning, un’app mobile marketplace e una piattaforma web per corsi online.
 
